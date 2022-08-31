@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "zodiac-connect",
+    "slug": "zodiac-connect",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.zodiac.connect"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "googleServicesFile": "./google-services.json",
+      "package": "code.influence.zodiac",
+      "permissions": ["INTERNET", "NETWORK"],
+      "versionCode": 2
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Expo react native app to connect with peers of similar zodiac signs. Includes Google maps and Google sign in",
+    "extra": {
+      "eas": {
+        "projectId": "84d5aae1-c5ef-47ab-8226-ef5a82dfe62f"
+      }
+    }
+  }
+}

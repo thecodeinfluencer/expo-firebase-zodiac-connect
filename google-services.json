@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "402573166777",
+    "firebase_url": "https://codeinfluencegigs-default-rtdb.firebaseio.com",
+    "project_id": "codeinfluencegigs",
+    "storage_bucket": "codeinfluencegigs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402573166777:android:d0010d2ca7cdf19209f368",
+        "android_client_info": {
+          "package_name": "code.influence.zodiac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402573166777-durh03odkmfd6pfipro8neucuukllrlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_THuGsURYLaNz0L1oELNPGGchjHk1JFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402573166777-durh03odkmfd6pfipro8neucuukllrlp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
